@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="discription">Add two hexadecimal characters between 0-9,\n A-F or a-f without the \'#\' for each channel</string>
+</resources>
