@@ -8,3 +8,4 @@ simple koltin Activity to learn basics of kotlin with android.
   <li>Basic Kotlin</li>
   <li>Button click and seting background color</li>
 </ul>
+<p>fhjshb</p>
